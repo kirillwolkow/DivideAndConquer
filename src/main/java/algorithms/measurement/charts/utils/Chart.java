@@ -61,7 +61,7 @@ public class Chart {
 
     public static VBox createChartInformation(LineChart<Number, Number> lineChart) {
         Text algoInfo = new Text("Fibonacci-Function | OO-DnC | Long");
-        Text systemInfo = new Text("OpenJDK 21.0.1 | System::nanoTime || macOS 14.2.1");
+        Text systemInfo = new Text("OpenJDK 21.0.1 | System::nanoTime | macOS 14.2.1");
         Text hardwareInfo = new Text("Apple M1 Pro (8 Cores) | 16GB LPDDR5 | 275GB (free) of 500GB Apple SSD");
 
         VBox vbox = new VBox();

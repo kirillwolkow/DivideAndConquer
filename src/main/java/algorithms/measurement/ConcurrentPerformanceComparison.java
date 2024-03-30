@@ -28,6 +28,7 @@ public class ConcurrentPerformanceComparison extends Application {
                 ExecutionTimer<Long> timer = new ExecutionTimer<>(() -> {
                     try {
                         return new ConcurrentFibonacci(finalN).concurrentDivideAndConquer();
+                        // TODO create version with memory for comparison
                     } catch (ExecutionException | InterruptedException e) {
                         e.printStackTrace();
                     }
