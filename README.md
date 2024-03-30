@@ -90,8 +90,6 @@ Project Link: [https://github.com/kirillwolkow/DivideAndConquer](https://github.
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
-
 * [Choose an Open Source License](https://choosealicense.com)
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
