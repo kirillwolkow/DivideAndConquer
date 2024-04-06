@@ -10,7 +10,7 @@
   <p align="center">
     Measurements of different DnC algorithms with various implementations.
     <br />
-    <a href="https://github.com/kirillwolkow/DivideAndConquer/documentation/OBSERVATIONS.md"><strong>Explore the observations</strong></a>
+    <a href="https://github.com/kirillwolkow/DivideAndConquer/blob/main/documentation/OBSERVATIONS.md"><strong>Explore the observations</strong></a>
   </p>
 </div>
 
@@ -26,7 +26,7 @@ Furthermore, the following tasks should be completed:
 - Implement all three interfaces in (wrapper) classes to calculate the Fibonacci numbers
 - Compare the performance (execution times) of all your implementing classes graphically (JavaFX: class Chart extends Application) and explain your observations
 
-Go to [OBSERVATIONS.md](https://github.com/kirillwolkow/DivideAndConquer/documentation/OBSERVATIONS.md) for the report.
+Go to [OBSERVATIONS.md](https://github.com/kirillwolkow/DivideAndConquer/blob/main/documentation/OBSERVATIONS.md) for the report.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -94,6 +94,7 @@ Project Link: [https://github.com/kirillwolkow/DivideAndConquer](https://github.
 * [Img Shields](https://shields.io)
 * [GitHub Pages](https://pages.github.com)
 * [Font Awesome](https://fontawesome.com)
+* [README Template](https://github.com/othneildrew/Best-README-Template)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
